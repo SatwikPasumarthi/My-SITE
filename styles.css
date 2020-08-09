@@ -1,0 +1,98 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Autour One';
+  background-color: #fff;
+}
+p{
+  color: #0f4c75;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+.top{
+  background-color: #0f4c75;
+  position: relative;
+  padding-top: 100px;
+}
+h1{
+  margin: 50px auto 0;
+  font-family: 'Bigelow Rules';
+  font-size: 5.625rem;
+  color: #00b7c2;
+}
+h2{
+  font-family: 'Delius Swash Caps';
+  color: #00b7c2;
+  font-size: 2.9rem;
+}
+h3{
+  font-family:'Caveat';
+  color: #00b7c2;
+  font-size: 2rem;
+}
+.aprogrammer{
+  margin-top: 0;
+  font-family: 'Black And White Picture';
+  font-size: 2.5rem;
+  color: #00b7c2;
+  font-weight: normal;
+}
+.bottomcloud{
+  position: absolute;
+  top: 400px;
+  left: 120px;
+  bottom: 400px;
+}
+.topcloud{
+  position: absolute;
+  top: 64px;
+  right: 107px;
+  bottom: 218px;
+}
+.middle{
+  padding: 30px 0;
+}
+.last{
+  background-color: #0f4c75;
+
+}
+.pythonImage{
+  width: 26%;
+  margin-right: 100px;
+  float: left;
+}
+.androidImage{
+  width: 21%;
+  float: right;
+  margin-left: 30px;
+}
+.devolper{
+  width: 25%;
+  float: left;
+  margin-right: 100px;
+}
+hr {
+
+  border-color: grey;
+  border-style: none;
+  border-width: 5px;
+  border-top-style: dotted;
+  width: 5%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.contactMe{
+  width: 17%;
+  font-family: 'Black And White Picture';
+  margin: 0 auto;
+  background-color: #00b7c2;
+}
+.btn{
+  text-decoration: none;
+}
+.contactImage{
+  width: 3%;
+}
